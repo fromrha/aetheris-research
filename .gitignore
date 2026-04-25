@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.next/
+out/
+build/
+dist/
+.env*
+.venv/
+__pycache__/
+*.pyc
+
+# Local Databases
+chroma_db/
+*.db
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temp Files
+temp_*
+*.log
