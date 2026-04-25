@@ -14,4 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up local vector storage with ChromaDB.
 - Created `start_dev.ps1` orchestration script.
 - Configured Vercel AI SDK with Ollama provider.
+- Implemented premium Dashboard UI with Glassmorphism and Framer Motion.
+- Added PDF upload integration for Docling ingestion.
 - Rebranded project to **Aetheris Research**.
